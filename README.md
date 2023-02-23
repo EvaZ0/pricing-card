@@ -1,2 +1,2 @@
-# pricing-card-
+# pricing-card
 Frontend code challenge
